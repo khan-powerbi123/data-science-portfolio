@@ -23,4 +23,4 @@ This project involves performing exploratory data analysis (EDA) on Netflix movi
 ## How to Run:
 1. Clone this repository: `git clone https://github.com/khan-powerbi123/repository-name.git`
 2. Install dependencies: `pip install pandas matplotlib numpy`
-3. Run the Python file `netflix_eda.py` or open the Jupyter notebook.
+3. Open the Jupyter notebook notebook.ipynb to explore the project.
