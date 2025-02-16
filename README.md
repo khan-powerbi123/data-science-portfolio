@@ -28,11 +28,6 @@ Project 2 : NYC Public School SAT Analysis
 
 This project involves analyzing New York City public school SAT scores and exploring performance across different schools and boroughs.
 
-## Technologies Used
-- Python
-- Pandas
-- Matplotlib
-
 ## Approach:
 1. Load and clean the dataset of NYC public schools.
 2. Filter schools with top-performing math scores.
