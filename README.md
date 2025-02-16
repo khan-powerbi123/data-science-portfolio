@@ -5,11 +5,6 @@ Project 1: Netflix EDA
 
 This project involves performing exploratory data analysis (EDA) on Netflix movies data.
 
-## Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- NumPy
 
 ## Approach:
 1. Load the dataset and clean any missing data.
@@ -20,8 +15,6 @@ This project involves performing exploratory data analysis (EDA) on Netflix movi
 ## Results
 - The most frequent movie duration for the 1990s was around 100 minutes.
 - There were X number of short action movies in the 1990s.
-
-
 
 
 Project 2 : NYC Public School SAT Analysis
@@ -40,6 +33,11 @@ This project involves analyzing New York City public school SAT scores and explo
 - The average SAT score for each borough was calculated, and the borough with the highest standard deviation was highlighted.
 
 
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- NumPy
 
 ## How to Run:
 1. Clone this repository: `git clone https://github.com/khan-powerbi123/repository-name.git`
