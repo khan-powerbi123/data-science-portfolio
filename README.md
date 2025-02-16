@@ -17,6 +17,8 @@ This project involves performing exploratory data analysis (EDA) on Netflix movi
 - There were X number of short action movies in the 1990s.
 
 
+
+
 Project 2 : NYC Public School SAT Analysis
 
 This project involves analyzing New York City public school SAT scores and exploring performance across different schools and boroughs.
